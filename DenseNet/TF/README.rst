@@ -1,4 +1,4 @@
-https://github.com/ikhlestov/vision_networks
+Quote from (https://github.com/ikhlestov/vision_networks)
 
 DenseNet with TensorFlow
 ~~~~~~~~~~~~~~~~~~~~~~~~
