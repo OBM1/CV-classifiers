@@ -1,3 +1,5 @@
+https://github.com/ikhlestov/vision_networks
+
 DenseNet with TensorFlow
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
